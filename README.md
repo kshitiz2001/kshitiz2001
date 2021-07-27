@@ -11,7 +11,7 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 
 🏆 I’m currently learning Python, HTML, CSS          
 ⏳ Graduation year : 2024       
-🌸 My motivater and supporter : @abd8126 #Anubhav Bhardwaj         
+🌸 My motivater and supporter : [abd8126](https://github.com/adb8126)#Anubhav Bhardwaj      
 ✅ Location : Gurgaon, Haryana, India          
   
 
