@@ -32,7 +32,7 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
   
 📈 Languages used :
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&layout=compact)](https://github.com/kshitiz2001/github-readme-stats)
 
 
 
