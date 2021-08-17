@@ -3,6 +3,7 @@
 
 
 hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.
+  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 <br />
