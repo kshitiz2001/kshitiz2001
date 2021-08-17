@@ -46,13 +46,17 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <br />
 
 
-<!-- 📈 My GitHub Stats : -->
+📈 My GitHub Stats :
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&show_icons=true&theme=radical" alt="kshitiz2001" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&show_icons=true&theme=radical" alt="kshitiz2001" /> -->
+	
+<!-- [![kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitiz2001&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/kshitiz2001/github-readme-stats) -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+
 
 <br />
 <br />
-  
 <!-- 📈 Languages used : -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&langs_count=8)](https://github.com/kshitiz2001/github-readme-stats)
