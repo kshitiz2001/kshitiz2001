@@ -33,7 +33,12 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 📈 Languages used :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&layout=compact)](https://github.com/kshitiz2001/github-readme-stats)
-
+  
+  
+  
+  <img src="https://komarev.com/ghpvc/?username=kshitiz2001" alt="kshitiz2001" />
+<a href="https://www.linkedin.com/in/kshitiz-kumar-singh-051565206/" target="_blank"><img src="https://img.shields.io/badge/-kshitiz-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
+<a href="mailto:singh.lovekumar2020@gmail.com"><img src="https://img.shields.io/badge/-singh.lovekumar2020@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:singh.lovekumar2020@gmail.com"></a>
 
 
 
