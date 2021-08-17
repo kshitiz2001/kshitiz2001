@@ -35,6 +35,8 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <a href="https://jetbrains.com/" target="_blank"><img align="left" alt="intellij-idea" width="26px" src="https://img.icons8.com/color/2x/intellij-idea"/></a>
 <a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://www.virtualbox.org/" target="_blank"><img align="left" alt="oracle virtual machine" width="26px" src="https://img.icons8.com/color/144/000000/virtualbox.png"/></a>
+
 
 
 <br />
