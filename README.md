@@ -15,7 +15,7 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 - 💬 Finding creative solutions to problems is something I have always enjoyed
 - 👯 I’m looking to collaborate on open source projects
 
-🏆 I’m currently learning Python, HTML, CSS          
+🏆 I’m currently working on Python, HTML, CSS and Java         
 ⏳ Graduation year : 2024       
 🌸 My motivater and supporter : [abd8126](https://github.com/abd8126)#Anubhav Bhardwaj      
 ✅ Location : Gurgaon, Haryana, India          
