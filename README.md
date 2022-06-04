@@ -11,7 +11,6 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <br />
 
 
-
 - 💼 If you are interested in contacting me please [email](mailto:singh.lovekumar2020@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kshitiz-kumar-singh-051565206/). 
 - 💬 Finding creative solutions to problems is something I have always enjoyed
 - 👯 I’m looking to collaborate on open source projects
