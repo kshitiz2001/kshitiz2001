@@ -1,5 +1,5 @@
 ### Hey there, 
-<!-- <img src="https://cdn.dribbble.com/users/2285832/screenshots/5677191/058_buddy_1_still_2x.gif?compress=1&resize=100x100&vertical=top" width="0.5px"> -->
+<!-- <img src="https://cdn.dribbble.com/users/2285832/screenshots/5677191/058_buddy_1_still_2x.gif?compress=1&resize=100x100&vertical=top" width="0px"> -->
 <br />
 
 
@@ -37,6 +37,7 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a href="https://www.virtualbox.org/" target="_blank"><img align="left" alt="oracle virtual machine" width="26px" src="https://img.icons8.com/color/144/000000/virtualbox.png"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/></a>
 
 
 
