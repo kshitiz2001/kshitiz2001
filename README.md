@@ -1,10 +1,11 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, 
+<!-- <img src="https://cdn.dribbble.com/users/2285832/screenshots/5677191/058_buddy_1_still_2x.gif?compress=1&resize=100x100&vertical=top" width="0.5px"> -->
 <br />
 
 
 hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.
   
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
 <br />
 <br />
@@ -52,8 +53,8 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&show_icons=true&theme=radical" alt="kshitiz2001" /> -->
 	
-<!-- [![kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitiz2001&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/kshitiz2001/github-readme-stats) -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+[![kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitiz2001&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/kshitiz2001/github-readme-stats)
+<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 
 
@@ -76,7 +77,7 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 	<a href="https://www.linkedin.com/in/kshitiz-kumar-singh-051565206/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <!-- 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
 	<a href="https://www.instagram.com/_kshitiz_2001/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/_kshitiz_2001"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://twitter.com/_kshitiz_2001"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/twitter-circled.png"/></a>
 </p>
 
 #### Profile views counter
