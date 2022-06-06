@@ -27,15 +27,15 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 
 **📈languages and tools:**  
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/glyph-neue/2x/github.png" /> </a>
-<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="intellij-idea" width="26px" src="https://img.icons8.com/color/2x/intellij-idea"/></a>
-<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-<a href="https://www.virtualbox.org/" target="_blank"><img align="left" alt="oracle virtual machine" width="26px" src="https://img.icons8.com/color/144/000000/virtualbox.png"/></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> </a>
+<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="intellij-idea" width="30px" src="https://img.icons8.com/color/2x/intellij-idea"/></a>
+<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="30px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://www.virtualbox.org/" target="_blank"><img align="left" alt="oracle virtual machine" width="30px" src="https://img.icons8.com/color/144/000000/virtualbox.png"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/></a>
 
 
 
