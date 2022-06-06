@@ -31,8 +31,6 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/glyph-neue/2x/github.png" /> </a>
-<!-- 	<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a> -->
-<img align="left" alt="GitHub" width="26px" src="https://github.com/" />
 <a href="https://jetbrains.com/" target="_blank"><img align="left" alt="intellij-idea" width="26px" src="https://img.icons8.com/color/2x/intellij-idea"/></a>
 <a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
