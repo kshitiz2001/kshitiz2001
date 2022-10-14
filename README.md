@@ -62,7 +62,8 @@ hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-tau
 <!-- 📈 Languages used : -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&langs_count=8)](https://github.com/kshitiz2001/github-readme-stats)
-  
+
+[![@kshitiz2001's Holopin board](https://holopin.me/kshitiz2001)](https://holopin.io/@kshitiz2001)
 
 <br />
 <br />
