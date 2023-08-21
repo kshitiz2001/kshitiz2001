@@ -1,85 +1,37 @@
-### Hey there, 
-<!-- <img src="https://cdn.dribbble.com/users/2285832/screenshots/5677191/058_buddy_1_still_2x.gif?compress=1&resize=100x100&vertical=top" width="0px"> -->
-<br />
+<h1 align="center">Hi 👋, I'm Kshitiz Kumar Singh</h1>
+<h3 align="center">A passionate self-taught upcoming full stack web developer. Skilled in Development, Team Motivation, Communication, Project Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused on Full Stack Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems. I’m looking for opportunities to work on challenging projects that will help me grow as a developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz2001&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz2001" /> </p>
 
-hi, i'm [Kshitiz](https://kshitiz2001.github.io/WEBSITE/), a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.
-  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-  
-<br />
-<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitiz2001" alt="kshitiz2001" /></a> </p>
 
+- 🌱 I’m currently learning **Frameworks, API, Databases, Full-Stack Development**
 
-- 💼 If you are interested in contacting me please [email](mailto:singh.lovekumar2020@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kshitiz-kumar-singh-051565206/). 
-- 💬 Finding creative solutions to problems is something I have always enjoyed
-- 👯 I’m looking to collaborate on open source projects
+- 👨‍💻 All of my projects are available at [https://kshitiz2001.github.io/WEBSITE/](https://kshitiz2001.github.io/WEBSITE/)
 
-🏆 I’m currently working on Python, HTML, CSS and Java         
-⏳ Graduation year : 2024       
-🌸 My motivater and supporter : [abd8126](https://github.com/abd8126)#Anubhav Bhardwaj      
-✅ Location : Gurgaon, Haryana, India          
+- 💬 Ask me about **React, Js, Mongo DB, Angular, HTML, CSS, Java**
 
+- 📫 How to reach me **singh.lovekumar2020@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/kshitiz2001/kshitiz2001/blob/main/kshitiz_resume__1_.pdf](https://github.com/kshitiz2001/kshitiz2001/blob/main/kshitiz_resume__1_.pdf)
 
-<br />
-<br />
-
-**📈languages and tools:**  
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> </a>
-<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="intellij-idea" width="30px" src="https://img.icons8.com/color/2x/intellij-idea"/></a>
-<a href="https://jetbrains.com/" target="_blank"><img align="left" alt="Pycharm" width="30px" src="https://img.icons8.com/color/2x/pycharm.png"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visualstudio" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-<a href="https://www.virtualbox.org/" target="_blank"><img align="left" alt="oracle virtual machine" width="30px" src="https://img.icons8.com/color/144/000000/virtualbox.png"/></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/></a>
-
-
-
-<br />
-<br />
-
-<!-- https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png -->
-
-<br />
-<br />
-
-
-📈 My GitHub Stats :
-
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&show_icons=true&theme=radical" alt="kshitiz2001" /> -->
-	
-[![kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitiz2001&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/kshitiz2001/github-readme-stats)
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-
-
-<br />
-<br />
-<!-- 📈 Languages used : -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&langs_count=8)](https://github.com/kshitiz2001/github-readme-stats)
-
-[![@kshitiz2001's Holopin board](https://holopin.me/kshitiz2001)](https://holopin.io/@kshitiz2001)
-
-<br />
-<br />
-  
-  
- 
-### Feel Free to Contact me.....
-
-<p align="center">
-	<a href="https://github.com/kshitiz2001"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/kshitiz-kumar-singh-051565206/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<!-- 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
-	<a href="https://www.instagram.com/_.kshitiz2001._/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/_kshitiz_2001"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/twitter-circled.png"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kshitiz kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kshitiz kumar singh" height="30" width="40" /></a>
+<a href="https://twitter.com/kshitiz2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitiz2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshitiz2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitiz2001" height="30" width="40" /></a>
+<a href="https://instagram.com/kshitiz_.0220._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitiz_.0220._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kshitiz2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitiz2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@_201500357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@_201500357" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kshitiz2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kshitiz2001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kshitiz0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitiz0220" height="30" width="40" /></a>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{kshitiz2001}/count.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz2001&show_icons=true&locale=en&layout=compact" alt="kshitiz2001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitiz2001&show_icons=true&locale=en" alt="kshitiz2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitiz2001&" alt="kshitiz2001" /></p>
